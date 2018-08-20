@@ -1,0 +1,1 @@
+void varcat(WCHAR *buf, int bufsize, VARIANT val);

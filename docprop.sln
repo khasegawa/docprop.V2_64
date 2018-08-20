@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "docprop", "docprop\docprop.vcxproj", "{D7EB4703-E052-4C68-8B42-6D0ABB2CB301}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "docprophook", "docprophook\docprophook.vcxproj", "{57C575E7-FB44-4188-9C04-2E4DB7B6C39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EB4703-E052-4C68-8B42-6D0ABB2CB301}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7EB4703-E052-4C68-8B42-6D0ABB2CB301}.Debug|Win32.Build.0 = Debug|Win32
+		{D7EB4703-E052-4C68-8B42-6D0ABB2CB301}.Release|Win32.ActiveCfg = Release|Win32
+		{D7EB4703-E052-4C68-8B42-6D0ABB2CB301}.Release|Win32.Build.0 = Release|Win32
+		{57C575E7-FB44-4188-9C04-2E4DB7B6C39D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57C575E7-FB44-4188-9C04-2E4DB7B6C39D}.Debug|Win32.Build.0 = Debug|Win32
+		{57C575E7-FB44-4188-9C04-2E4DB7B6C39D}.Release|Win32.ActiveCfg = Release|Win32
+		{57C575E7-FB44-4188-9C04-2E4DB7B6C39D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
